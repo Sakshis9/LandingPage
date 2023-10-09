@@ -1,2 +1,2 @@
 # LandingPage
-LAnding Page made with HTML, CSS and JavaScript
+Landing Page made with HTML, CSS and JavaScript
